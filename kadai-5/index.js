@@ -1,6 +1,6 @@
 const profile = {
-  firstName: "Iori",
-  familyName: "Murakami",
+  firstName: "Ras",
+  familyName: "Puutin",
   age: 83,
   major: "Science",
   hobby: "Kitchen garden",
