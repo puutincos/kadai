@@ -1,1 +1,3 @@
-export default () => { console.log('hello, a!') }
+module.exports = () => {
+    console.log('Hello, a!')
+}
